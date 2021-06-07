@@ -1,0 +1,8 @@
+1, Louis1, flat, at home, 1, 1.0, 1.0, WORK ALREADY, louis, louis
+2, Louis2, flat, home, 1, 1.0, 1.0, 1, 1, luis
+3, Louis3, flat, home, 1, 1.0, 1.0, 1, luis, luis
+4, Louis, onibfs, \dfb, 1, 1.0, 1.0, 1, 1, 1
+5, Tired, Flat, 10 Pelican, 10, 10.0, 10.0, 20/20/2000, Isa me, Mario
+6, Still tired, Blom spot, here, 2, 20.0, 20.0, 20/20/2020, still me, Luciano
+7, test, flat, home, 1, 1.0, 1.0, 1, louis, louis
+8, Test#9123, house, home, 10, 1000000, 60000, Right now, Luciano, Louisness
